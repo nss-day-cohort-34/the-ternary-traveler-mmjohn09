@@ -48,18 +48,21 @@ legend {
   margin: 5px;
 }
 
-#entryLog {
+/* #entryLog {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-}
+} */
 
 .interestCard {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
   font-size: 10px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   padding: 10px;
   width: 30%;
+  
 }
 
 /* On mouse-over, add a deeper shadow */
