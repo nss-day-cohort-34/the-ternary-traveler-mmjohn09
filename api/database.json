@@ -1,0 +1,68 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Italy",
+      "visa_required": false
+    },
+    {
+      "id": 2,
+      "name": "Switzerland",
+      "visa_required": true
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "visa_required": false
+    }
+  ],
+  "interests": [
+    {
+      "placeId": 2,
+      "name": "Chillon Castle",
+      "description": "Lakeside castle with underground vaults & 4 great halls, home to exhibitions & cultural events",
+      "cost": "15",
+      "review": "Beautiful Romanesque architecture and beautiful scenic views",
+      "id": 3
+    },
+    {
+      "placeId": 1,
+      "name": "Eiffel Tower",
+      "description": "Freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation",
+      "cost": "5",
+      "review": "Historic tower. The marble stairs show use. The top was breezy and had great views. There is a glass in the middle so you can safely look down the center of the tower.  Visitors go according to a time slot. No bags allowed on the tower.",
+      "id": 4
+    },
+    {
+      "placeId": 3,
+      "name": "Palace of Versailles",
+      "description": "Immense, 18th-century palace with gilded apartments, chandeliered Hall of Mirrors & fountain show",
+      "cost": "15",
+      "review": "Amazing palace experience. Inside arts and exhibits are very detailed and exorbitantly beautiful. The surrounding garden is very nicely decorated and maintained. The walkway to the palace also is filled with nice restaurants",
+      "id": 5
+    },
+    {
+      "placeId": 1,
+      "name": "Cathedral of Santa Maria del Fiore",
+      "description": "Landmark 1200s cathedral known for its red-tiled dome, colored marble facade & elegant Giotto tower",
+      "cost": "Free",
+      "review": "Climbing the Bell tower is somewhat challenging, so make sure that you are fit enough to do it. Breath taking views of the city of Florence from the top of either the Bell tower or the dome",
+      "id": 6
+    },
+    {
+      "placeId": 1,
+      "name": "Trevi Fountain",
+      "description": "Largest Baroque fountain in Rome",
+      "cost": "Free",
+      "review": "The fountain is beautiful. When you think of fountains this one is like no other. It is grand and has clear water, but has tints of turquoise. It's a lot bigger than I expected. The crowds are massive during the day, so try to go either really early (before 8:30am) or at night then you can really take in the beauty of the fountain",
+      "id": 7
+    },
+    {
+      "placeId": 3,
+      "name": "The Louvre",
+      "description": "Historic art museum housing the Mona Lisa",
+      "review": "Really great spot, especially of you're into museums. Buy the fast lane tickets, they save you hours. The great part for museum lovers is that 99% of everyone in the museum just goes to the Mona Lisa and leaves (the line for the Mona Lisa moves surprisingly quickly for those interested in seeing it), so you'll have plenty of space to wander around the other exhibits. Beautiful architecture and an enormous building.",
+      "id": 8
+    }
+  ]
+}
