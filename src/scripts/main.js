@@ -47,7 +47,7 @@ const initTraveler = () => {
     formContainer.addEventListener("click", () => {
         if (event.target.id.startsWith("saveButton")) {
             const interestName = document.querySelector("#name")
-            const interestCost = (parseFloat(document.querySelector("#cost")).toFixed(2))
+            const interestCost = () => {(parseFloat(document.querySelector("#cost")).toFixed(2))}
             const interestReview = document.querySelector("#review")
             const interestLocation = document.querySelector("#location")
             const interestDescription = document.querySelector("#description")

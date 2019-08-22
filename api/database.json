@@ -21,7 +21,7 @@
       "placeId": 2,
       "name": "Chillon Castle",
       "description": "Lakeside castle with underground vaults & 4 great halls, home to exhibitions & cultural events",
-      "cost": "15",
+      "cost": "15€",
       "review": "Beautiful Romanesque architecture and beautiful scenic views",
       "id": 3
     },
@@ -29,7 +29,7 @@
       "placeId": 1,
       "name": "Eiffel Tower",
       "description": "Freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation",
-      "cost": "5",
+      "cost": "5€",
       "review": "Historic tower. The marble stairs show use. The top was breezy and had great views. There is a glass in the middle so you can safely look down the center of the tower.  Visitors go according to a time slot. No bags allowed on the tower.",
       "id": 4
     },
@@ -37,7 +37,7 @@
       "placeId": 3,
       "name": "Palace of Versailles",
       "description": "Immense, 18th-century palace with gilded apartments, chandeliered Hall of Mirrors & fountain show",
-      "cost": "15",
+      "cost": "15€",
       "review": "Amazing palace experience. Inside arts and exhibits are very detailed and exorbitantly beautiful. The surrounding garden is very nicely decorated and maintained. The walkway to the palace also is filled with nice restaurants",
       "id": 5
     },
@@ -61,6 +61,7 @@
       "placeId": 3,
       "name": "The Louvre",
       "description": "Historic art museum housing the Mona Lisa",
+      "cost": "35€",
       "review": "Really great spot, especially of you're into museums. Buy the fast lane tickets, they save you hours. The great part for museum lovers is that 99% of everyone in the museum just goes to the Mona Lisa and leaves (the line for the Mona Lisa moves surprisingly quickly for those interested in seeing it), so you'll have plenty of space to wander around the other exhibits. Beautiful architecture and an enormous building.",
       "id": 8
     }
