@@ -3,7 +3,7 @@ const factory = {
         return `
                 <fieldset>
                 <input type="hidden" id="hiddenId" value=""></input>
-                <legend>Ternary Traveler</legend>
+                <legend>Mira's Travel Blog</legend>
                     <label for="pointOfInterest">Point of Interest:</label>
                     <input id="name" type="text" name="name">
                     <br>
